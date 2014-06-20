@@ -1,0 +1,14 @@
+Process 
+
+1. Find something to scrape, http://www.theskint.com/2014/06/2014-free-outdoor-movies-guide.html
+2. What data do we want to grab and what want to do with it 
+  - date, movie name, location, link to event webpage
+  - can put in collection at first but probably want to create movie objects
+  - eventually would be cool to have app email you each week with what free movies there are that week 
+3. Connecte computers so we could pair 
+4. Grabbed doc with nokogiri .css method & began playing with it in pry to see how we could extrac the data we wanted 
+5. As figured out how to extract data we would put that in ruby file,https://www.evernote.com/shard/s159/sh/538eeafe-3180-41c8-acee-207b75678b61/bb54f98790d347171697dd25921f3198
+  - ruby file was super unorganized but that was ok becuase we're just playing right now 
+  - how we would pair - would trade off trying things in pry and suggest things to each other 
+  - at first I was afraid to suggest things becuase it might be wrong, but after a bit it became easier to just throw out ideas and be like oh that doesn't work 
+  - we started to feed off each other's ideas.  Em woudl come up with a super slick way to access the data that I probably never would have come up with but didn't see what to do next becuase she had been focusing on the last task and since I hadn't been bogged down I saw the next move faster 
